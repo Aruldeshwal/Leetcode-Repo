@@ -1,17 +1,22 @@
 class Solution {
 public:
-  // Finds max sum of non-adjacent slices from `index` to `end`, picking `n` slices.
+  // Finds max sum of non-adjacent slices from index to end, picking n slices.
   int solve(vector<int> &slices, int index, int end, int n){
-      // Base case: No slices to pick or end reached.
+      // n == 0 signifies that all the pizza slices have been eaten
+      //if index > end, it signifies that the index is wrong hence it returns 0
       if(n == 0 || index > end) return 0;
         
-      // Option 1: Take current slice; skip next.
+      // slices[index] signifies taking current slice
+      // index + 2 to skip the adjacent slide 
+      // n - 1 to signify current slice has been eaten so the number of slices has been reduced
       int eat = slices[index] + solve(slices, index + 2, end, n - 1);
         
-      // Option 2: Skip current slice.
+      // no slices[index] addition because current slice is being skipped
+      // index + 1 to visit adjacent slice 
       int notEaten = solve(slices, index + 1, end, n);
         
       // Return maximum of eating or not eating.
+      
       return max(eat, notEaten); 
   }
 
