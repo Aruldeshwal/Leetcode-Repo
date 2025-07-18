@@ -15,11 +15,11 @@ public:
         //if previous element was swapped
         if(swapped) swap(prev1, prev2);
         //if curr element of both vectors are greater than prev elements then we dont swap
-        if(nums1[index] > prev1 && nums2[index] > prev2) ans = 1 + solve(nums1, nums2, index + 1, false, dp);
+        if(nums1[index] > prev1 && nums2[index] > prev2) ans = solve(nums1, nums2, index + 1, false, dp);
         //if curr element of vector 1 is greater than previous of vector 2 and vice verse, we can swap
         if(nums1[index] > prev2 && nums2[index] > prev1)
             //we take minimum in case this index executes for both swap and noswap 
-            ans = min(ans, solve(nums1, nums2, index + 1, true, dp));
+            ans = min(ans, solve(nums1, 1 + nums2, index + 1, true, dp));
         //store in dp and return answer
         return dp[index][swapped] = ans;
     }
