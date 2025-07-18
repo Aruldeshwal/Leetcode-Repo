@@ -1,21 +1,33 @@
 class Solution {
 public:
     //solve function to return the ans
-    int solve(vector<int> &nums1, vector<int> &nums2, int curr, int prev){
+    int solve(vector<int> &nums1, vector<int> &nums2, int index, bool swapped){
         //if current index reaches size of the vectors we return 0
-        if(curr == nums1.size()) return 0;
-        int ans = 0;
-        //on the first call, prev is -1, hence we use this if statement to counter it
-        if(prev == -1) ans = solve(nums1, nums2, curr + 1, curr);
-        //if prev element of either vectors is greater, we swap, to emulate that, we increment the answer
-        else if(nums1[curr] < nums1[prev] || nums2[curr] < nums2[prev]) ans = 1 + solve(nums1, nums2, curr + 1, curr);
-        //store answer of next index if prev element is already sorted
-        else ans = solve(nums1, nums2, curr + 1, curr);
+        if(index == nums1.size()) return 0;
+        //initialize answer as int max to store minimum answer
+        int ans = INT_MAX;
+        //prev element of first vector
+        int prev1 = nums1[index - 1];
+        //prev element of second vector
+        int prev2 = nums2[index - 1];
+        //if previous element was swapped
+        if(swapped) swap(prev1, prev2);
+        //if curr element of both vectors are greater than prev elements then we dont swap
+        if(nums1[index] > prev1 && nums2[index] > prev2) ans = 1 + solve(nums1, nums2, index + 1, false);
+        //if curr element of vector 1 is greater than previous of vector 2 and vice verse, we can swap
+        if(nums1[index] > prev2 && nums2[index] > prev1)
+            //we take minimum in case this index executes for both swap and noswap 
+            ans = min(ans, solve(nums1, nums2, index + 1, true));
         //return answer
         return ans;
     }
     int minSwap(vector<int>& nums1, vector<int>& nums2) {
-        //return answer
-        return solve(nums1, nums2, 0, -1);
+        //insert -1 in beginning of both arrays to counter edge case
+        nums1.insert(nums1.begin(), -1);
+        nums2.insert(nums2.begin(), -1);
+        //it shows if prev index is swapped or not
+        bool swapped = 0;
+        //we start from index 1 as prev element to 1 is -1
+        return solve(nums1, nums2, 1, swapped);
     }
 };
