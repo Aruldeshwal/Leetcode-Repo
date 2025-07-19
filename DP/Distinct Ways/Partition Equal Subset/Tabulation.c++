@@ -26,7 +26,13 @@ public:
             for(int sum = 0; sum <= total / 2; sum++){
                 
                 //include current element as dp element
-                bool include = dp[curr + 1][sum - arr[curr]];
+                bool include = 0;
+                
+                if (sum - arr[curr] >= 0) {
+                    // Ensure that 'sum - arr[curr]' is a valid index.
+                    include = nextArr[sum - arr[curr]];
+                }
+            
                 
                 //exclude current element as dp element
                 bool exclude = dp[curr + 1][sum];
