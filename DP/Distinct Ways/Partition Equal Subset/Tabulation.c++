@@ -30,7 +30,7 @@ public:
                 
                 if (sum - arr[curr] >= 0) {
                     // Ensure that 'sum - arr[curr]' is a valid index.
-                    include = nextArr[sum - arr[curr]];
+                    include = dp[curr + 1][sum - arr[curr]];
                 }
             
                 
