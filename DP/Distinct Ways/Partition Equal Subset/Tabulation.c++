@@ -15,7 +15,7 @@ public:
         if(total % 2 != 0) return false;
         
         // since two arguments are changing, we provide 2D dp
-        vector<vector<int>> dp(n + 1, vector<int> (total / 2 + 1, -1));
+        vector<vector<int>> dp(n + 1, vector<int> (total / 2 + 1, 0));
         
         // since this was the element that resulted in true during recursion
         dp[n][0] = true;
