@@ -2,23 +2,25 @@ class Solution {
 public:
     int minPathSum(vector<vector<int>>& grid) {
         int n = grid.size(), m = grid[0].size();
-        vector<vector<int>> dp(n + 1, vector<int>(m + 1, -1));
+        vector<int> currRow(m + 1, -1);
+        vector<int> nextRow(m + 1, -1);
         
         for(int i = n - 1; i >= 0; i--) {
             for(int j = m - 1; j >= 0; j--) {
-                if(dp[i + 1][j] != -1 && dp[i][j + 1] != -1) {
-                    dp[i][j] = grid[i][j] + min(dp[i + 1][j], dp[i][j + 1]);
+                if(nextRow[j] != -1 && currRow[j + 1] != -1) {
+                    currRow[j] = grid[i][j] + min(nextRow[j], currRow[j + 1]);
                 } 
-                else if(dp[i + 1][j] == -1 && dp[i][j + 1] != -1) {
-                    dp[i][j] = grid[i][j] + dp[i][j + 1];
+                else if(nextRow[j] == -1 && currRow[j + 1] != -1) {
+                    currRow[j] = grid[i][j] + currRow[j + 1];
                 }
-                else if(dp[i + 1][j] != -1 && dp[i][j + 1] == -1) {
-                    dp[i][j] = grid[i][j] + dp[i + 1][j];
+                else if(nextRow[j] != -1 && currRow[j + 1] == -1) {
+                    currRow[j] = grid[i][j] + nextRow[j];
                 }
-                else dp[i][j] = grid[i][j];
+                else currRow[j] = grid[i][j];
                 
             }
+            nextRow = currRow;
         }
-        return dp[0][0];
+        return nextRow[0];
     }
 };
