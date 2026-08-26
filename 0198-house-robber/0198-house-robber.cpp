@@ -1,15 +1,19 @@
 class Solution {
 public:
-    int solve(vector<int> &nums, int i, vector<int> &dp) {
-        if(i >= nums.size()) return 0;
-        if(dp[i] != -1) return dp[i];
-        int include = nums[i] + solve(nums, i + 2, dp);
-        int exclude = solve(nums, i + 1, dp);
-        return dp[i] = max(include, exclude);
-    }
     int rob(vector<int>& nums) {
-        vector<int> dp1(nums.size() + 1, -1);
-        vector<int> dp2(nums.size() + 1, -1);
-        return max(solve(nums, 0, dp1), solve(nums, 1, dp2));
+        int n = nums.size();
+        vector<int> dp1(n + 2, 0);
+        vector<int> dp2(n + 2, 0);
+        for(int i = n - 1; i >= 0; i--) {
+            int include = nums[i] + dp1[i + 2];
+            int exclude = dp1[i + 1];
+            dp1[i] = max(include, exclude);
+        }
+        for(int i = n - 1; i >= 1; i--) {
+            int include = nums[i] + dp2[i + 2];
+            int exclude = dp2[i + 1];
+            dp2[i] = max(include, exclude);
+        }
+        return max(dp1[0], dp2[1]);
     }
 };
