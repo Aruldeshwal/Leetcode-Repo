@@ -7,12 +7,15 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0064-minimum-path-sum/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0064-minimum-path-sum/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0064-minimum-path-sum/) | Medium |
 <!---LeetCode Topics End-->
