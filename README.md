@@ -6,6 +6,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0011-container-with-most-water/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0064-minimum-path-sum/) | Medium |
 | [0139-word-break](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0139-word-break/) | Medium |
@@ -44,4 +45,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0139-word-break/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0011-container-with-most-water/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
