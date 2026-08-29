@@ -25,6 +25,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0045-jump-game-ii](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0055-jump-game/) | Medium |
@@ -52,6 +53,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0049-group-anagrams/) | Medium |
 | [0091-decode-ways](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0091-decode-ways/) | Medium |
@@ -72,6 +74,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0011-container-with-most-water/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Greedy
@@ -134,4 +137,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0155-min-stack/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
