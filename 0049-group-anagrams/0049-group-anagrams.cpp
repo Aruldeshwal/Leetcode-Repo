@@ -10,11 +10,7 @@ public:
             mp[str].push_back(temp);
         }
         for(auto &it : mp) {
-            vector<string> res;
-            for(string i : it.second) {
-                res.push_back(i);
-            }
-            ans.push_back(res);
+            ans.push_back(it.second);
         }
         return ans;
         
