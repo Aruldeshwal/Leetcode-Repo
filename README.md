@@ -43,11 +43,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0049-group-anagrams/) | Medium |
 | [0139-word-break](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0139-word-break/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0049-group-anagrams/) | Medium |
 | [0091-decode-ways](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0091-decode-ways/) | Medium |
 | [0139-word-break](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0139-word-break/) | Medium |
@@ -106,4 +108,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0053-maximum-subarray/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
