@@ -6,6 +6,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0055-jump-game/) | Medium |
@@ -38,6 +39,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0001-two-sum/) | Easy |
 | [0139-word-break](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0139-word-break/) | Medium |
 ## String
 | Problem Name | Difficulty |
