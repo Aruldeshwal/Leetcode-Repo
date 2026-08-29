@@ -20,6 +20,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0200-number-of-islands/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -115,4 +116,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
