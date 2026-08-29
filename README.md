@@ -46,6 +46,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0049-group-anagrams/) | Medium |
 | [0139-word-break](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0139-word-break/) | Medium |
+| [0242-valid-anagram](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0242-valid-anagram/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@
 | [0049-group-anagrams](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0049-group-anagrams/) | Medium |
 | [0091-decode-ways](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0091-decode-ways/) | Medium |
 | [0139-word-break](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0139-word-break/) | Medium |
+| [0242-valid-anagram](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0242-valid-anagram/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +85,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0056-merge-intervals/) | Medium |
+| [0242-valid-anagram](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0242-valid-anagram/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
