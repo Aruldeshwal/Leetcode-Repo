@@ -9,6 +9,7 @@
 | [0001-two-sum](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0045-jump-game-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0063-unique-paths-ii/) | Medium |
@@ -23,6 +24,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0045-jump-game-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0055-jump-game/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0064-minimum-path-sum/) | Medium |
@@ -96,4 +98,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0200-number-of-islands/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
