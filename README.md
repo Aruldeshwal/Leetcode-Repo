@@ -125,8 +125,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0155-min-stack/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0020-valid-parentheses/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
