@@ -52,6 +52,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0049-group-anagrams/) | Medium |
 | [0091-decode-ways](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0091-decode-ways/) | Medium |
 | [0139-word-break](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0139-word-break/) | Medium |
@@ -120,4 +121,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0238-product-of-array-except-self/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
