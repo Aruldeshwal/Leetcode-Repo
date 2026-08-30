@@ -106,17 +106,20 @@
 | [0200-number-of-islands](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0200-number-of-islands/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0684-redundant-connection](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0743-network-delay-time/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0200-number-of-islands](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0200-number-of-islands/) | Medium |
+| [0684-redundant-connection](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0743-network-delay-time/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0200-number-of-islands/) | Medium |
+| [0684-redundant-connection](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0684-redundant-connection/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +152,7 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0684-redundant-connection](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0743-network-delay-time/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
