@@ -12,29 +12,31 @@
 class Solution {
 public:
     vector<vector<int>> levelOrder(TreeNode* root) {
-        queue<pair<TreeNode*, int>> q;
         vector<vector<int>> ans;
-        if(!root) return ans;
-        q.push({root, 1});
-        while(!q.empty()) {
-            TreeNode* ele = q.front().first;
-            int currLevel = q.front().second;
-            q.pop();
-            if(ele -> left) q.push({ele -> left, currLevel + 1});
-            if(ele -> right) q.push({ele -> right, currLevel + 1});
-            vector<int> res;
-            res.push_back(ele -> val);
-            while(q.front().second == currLevel) {
-                TreeNode* newEle = q.front().first;
-                int level = q.front().second;
+        if (!root) return ans;
+        
+        queue<TreeNode*> q;
+        q.push(root);
+        
+        while (!q.empty()) {
+            int size = q.size(); // Number of nodes in the current level
+            vector<int> currentLevel;
+            
+            // Process all nodes in the current level at once
+            for (int i = 0; i < size; i++) {
+                TreeNode* node = q.front();
                 q.pop();
-                if(newEle -> left) q.push({newEle -> left, level + 1});
-                if(newEle -> right) q.push({newEle -> right, level + 1});
-                res.push_back(newEle -> val);
+                
+                currentLevel.push_back(node->val);
+                
+                // Add children to the queue for the NEXT level
+                if (node->left) q.push(node->left);
+                if (node->right) q.push(node->right);
             }
-            ans.push_back(res);
+            
+            ans.push_back(currentLevel);
         }
+        
         return ans;
-
     }
 };
