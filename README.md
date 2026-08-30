@@ -50,6 +50,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0049-group-anagrams/) | Medium |
 | [0139-word-break](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0139-word-break/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0242-valid-anagram/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -60,11 +61,13 @@
 | [0049-group-anagrams](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0049-group-anagrams/) | Medium |
 | [0091-decode-ways](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0091-decode-ways/) | Medium |
 | [0139-word-break](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0139-word-break/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0242-valid-anagram/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0139-word-break/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,6 +154,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0155-min-stack/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
