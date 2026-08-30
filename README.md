@@ -105,6 +105,7 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0200-number-of-islands/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0743-network-delay-time](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0743-network-delay-time/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -166,11 +167,13 @@
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,4 +182,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
