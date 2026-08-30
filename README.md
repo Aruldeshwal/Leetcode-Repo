@@ -22,6 +22,7 @@
 | [0200-number-of-islands](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0200-number-of-islands/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +42,7 @@
 | [0063-unique-paths-ii](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0064-minimum-path-sum/) | Medium |
 | [0200-number-of-islands](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0200-number-of-islands/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +102,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +111,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0684-redundant-connection](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0743-network-delay-time/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,11 +119,13 @@
 | [0200-number-of-islands](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0200-number-of-islands/) | Medium |
 | [0684-redundant-connection](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0743-network-delay-time/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0200-number-of-islands/) | Medium |
 | [0684-redundant-connection](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0684-redundant-connection/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,6 +164,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0743-network-delay-time/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +173,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0743-network-delay-time/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
