@@ -24,6 +24,7 @@
 | [0238-product-of-array-except-self](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0283-move-zeroes/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -54,6 +55,7 @@
 | [0139-word-break](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0242-valid-anagram/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,6 +149,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
