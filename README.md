@@ -21,6 +21,7 @@
 | [0198-house-robber](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0200-number-of-islands/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0283-move-zeroes](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0283-move-zeroes/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Dynamic Programming
@@ -83,6 +84,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0011-container-with-most-water/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0283-move-zeroes](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0344-reverse-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
