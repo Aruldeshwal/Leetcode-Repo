@@ -63,6 +63,7 @@
 | [0139-word-break](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0242-valid-anagram/) | Easy |
+| [0344-reverse-string](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0344-reverse-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +83,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0011-container-with-most-water/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0344-reverse-string](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0344-reverse-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
