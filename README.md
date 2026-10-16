@@ -8,6 +8,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0011-container-with-most-water/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0045-jump-game-ii](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0045-jump-game-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0053-maximum-subarray/) | Medium |
@@ -83,6 +84,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0011-container-with-most-water/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Aruldeshwal/Leetcode-Repo/tree/main/0344-reverse-string/) | Easy |
